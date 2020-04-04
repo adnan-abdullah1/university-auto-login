@@ -39,7 +39,7 @@ year=1990
 i=0
 j=0
 while True:
-    roll=16048112038
+    roll=int_number_pass
     
     #here i am checking sequences of dob incrementing year,month,day
 	#it acts as brute force
