@@ -39,7 +39,7 @@ year=1990
 i=0
 
 while True:
-    roll=int_number_pass
+    roll=int(input(enter 10 digit roll no"))
     
     #here i am checking sequences of dob incrementing year,month,day
 	#it acts as brute force
