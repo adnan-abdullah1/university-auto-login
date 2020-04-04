@@ -37,7 +37,7 @@ day=19
 month=4
 year=1990
 i=0
-j=0
+
 while True:
     roll=int_number_pass
     
@@ -63,7 +63,5 @@ while True:
     if month==12 and day==31:
         year+=1
    
-    j=j+1
-    if j==20:
-        exit()
+   
 
